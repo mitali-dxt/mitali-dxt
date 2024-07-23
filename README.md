@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-🎓 I am Mitali Dixit, a Web3 enthusiast and a Front End Web Developer (specializing in React Applications). I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
+🎓 I am Mitali Dixit, a Web3 enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
 
 👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I dedicated most of my time in learning and building on Web3 projects and now I am looking for learning other skills. I am also into competitve programming and I love solving DSA problems.
 
