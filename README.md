@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Mitali
 
 ### 🚀 About me
 
-🎓 I am Mitali Dixit, a Web3 enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2027.
+I’m a Dual Degree (B.Tech + M.Tech) Computer Science student at NIT Patna, graduating in 2027.
 
-👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I dedicated most of my time in learning and building on Web3 projects and now I am looking for learning other skills. I am also into competitve programming and I love solving DSA problems.
+I spent my earlier years building in the Web3 space, but lately, I’ve pivoted toward Generative AI. Now, I’m really enjoying exploring new use cases for AI and the challenge of building intelligent backend systems. I’m also into competitive programming and I enjoy spending time solving complex DSA problems.
 
-♛ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dancing, sketching, designing to playing chess.
+Aside from code, I’m the Administrative Lead for Codess.Cafe India, where I help other women get into tech.
+
+Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dancing, sketching, designing to playing chess.
 
 ### 🛠️ Skills
 
